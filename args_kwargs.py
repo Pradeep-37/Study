@@ -1,7 +1,7 @@
 """
 In Python, *args and **kwargs are special syntax used in function definitions to pass a variable 
 number of arguments to a function. 
-They are useful when the number of arguments to a function is uncertain.
+They are useful when the number of arguments to a function is uncertain. lk
 """
 # they need not to be args or kw args they can be any name
 """
